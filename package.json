@@ -1,0 +1,22 @@
+{
+  "name": "gy-80-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.mncloudsolutions.com/root/gy-80-pid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adxl345-bytes-to-vector": "^1.0.0",
+    "hmc5883l-bytes-to-vector": "^1.0.0",
+    "pid-system": "^3.0.4",
+    "pid-system-utils": "^1.0.3",
+    "sylvester": "0.0.21"
+  }
+}
